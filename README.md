@@ -1,4 +1,4 @@
-# myBooks02
+# myBooks
 
 Aula de criação de aplicativo para dispositivo móvel
 

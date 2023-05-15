@@ -16,6 +16,11 @@
     "ios": {
       "package": "com.company.myBooks",
       "googleServicesFile": "GoogleService-Info.plist"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1f512756-2438-4c5e-ad02-9aa8f48847be"
+      }
     }
   }
 }

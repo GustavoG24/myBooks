@@ -28,6 +28,7 @@ logo apos, selecione a opção `minimal`
 - `yarn add install expo-font @expo-google-fonts/roboto`
 - `yarn add --dev react-native-svg-transformer`
 
+[firebase do Google](https://console.firebase.google.com/u/0/?hl=pt&pli=1)
 
 - `yarn add @react-native-firebase/firestore`
 - `yarn add @react-native-firebase/app`
